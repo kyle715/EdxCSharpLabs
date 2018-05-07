@@ -6,7 +6,7 @@ namespace lab1
     {
         static void Main(string[] args)
         {
-            var employee1 = new employee("libby", 2000);
+            var employee1 = new TechnicalEmployee("libby");
 
             var employee2 = new TechnicalEmployee("Zaynah");
 

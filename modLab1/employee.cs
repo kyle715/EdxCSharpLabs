@@ -2,7 +2,7 @@ using System;
 
 namespace lab1
 {
-    public class employee
+    abstract class employee
     {
         private string employeeName;
         private double employeeBaseSalary;
@@ -68,7 +68,7 @@ namespace lab1
         {
             return this.ID + " " + this.Name;
         }
-        public virtual String employeeStatus()
+        public abstract String employeeStatus()
         {
             return toString() + " is in the company's sysytem";
         }
