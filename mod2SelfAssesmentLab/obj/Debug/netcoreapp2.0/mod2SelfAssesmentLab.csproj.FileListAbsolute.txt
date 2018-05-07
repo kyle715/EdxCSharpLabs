@@ -1,0 +1,10 @@
+C:\Users\Owner-14\Desktop\mod2_lab1\mod2SelfAssesmentLab\obj\Debug\netcoreapp2.0\mod2SelfAssesmentLab.csproj.CoreCompileInputs.cache
+C:\Users\Owner-14\Desktop\mod2_lab1\mod2SelfAssesmentLab\obj\Debug\netcoreapp2.0\mod2SelfAssesmentLab.AssemblyInfoInputs.cache
+C:\Users\Owner-14\Desktop\mod2_lab1\mod2SelfAssesmentLab\obj\Debug\netcoreapp2.0\mod2SelfAssesmentLab.AssemblyInfo.cs
+C:\Users\Owner-14\Desktop\mod2_lab1\mod2SelfAssesmentLab\bin\Debug\netcoreapp2.0\mod2SelfAssesmentLab.deps.json
+C:\Users\Owner-14\Desktop\mod2_lab1\mod2SelfAssesmentLab\bin\Debug\netcoreapp2.0\mod2SelfAssesmentLab.runtimeconfig.json
+C:\Users\Owner-14\Desktop\mod2_lab1\mod2SelfAssesmentLab\bin\Debug\netcoreapp2.0\mod2SelfAssesmentLab.runtimeconfig.dev.json
+C:\Users\Owner-14\Desktop\mod2_lab1\mod2SelfAssesmentLab\bin\Debug\netcoreapp2.0\mod2SelfAssesmentLab.dll
+C:\Users\Owner-14\Desktop\mod2_lab1\mod2SelfAssesmentLab\bin\Debug\netcoreapp2.0\mod2SelfAssesmentLab.pdb
+C:\Users\Owner-14\Desktop\mod2_lab1\mod2SelfAssesmentLab\obj\Debug\netcoreapp2.0\mod2SelfAssesmentLab.dll
+C:\Users\Owner-14\Desktop\mod2_lab1\mod2SelfAssesmentLab\obj\Debug\netcoreapp2.0\mod2SelfAssesmentLab.pdb

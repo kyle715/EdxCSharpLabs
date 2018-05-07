@@ -4,7 +4,8 @@ namespace lab1
 {
        class TechnicalEmployee : employee
     {       
-           public int successfulCheckIns = 5; public TechnicalEmployee(String name) : base(name, 75000)
+           public int successfulCheckIns = 5; 
+           public TechnicalEmployee(String name) : base(name, 75000)
         {
 
         } 
